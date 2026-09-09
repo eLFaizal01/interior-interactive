@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "title": "Ayo Lengkapi Ruangan!",
+  "locale": "id-ID",
+  "defaultMode": "challenge",
+  "modes": ["challenge", "freeplay"],
+  "roomIds": ["bedroom", "living-room", "study-room"],
+  "coordinates": { "unit": "meter", "upAxis": "Y", "forwardAxis": "+Z", "rotationUnit": "degrees" },
+  "previewSeconds": 5,
+  "timer": { "startOn": "preview-end", "pauseOnAppBlur": true, "pauseDuringReferencePreview": true },
+  "interaction": { "snapDistanceMeters": 0.65, "lockAfterCorrectPlacement": true, "disableCameraDuringDrag": true, "wrongDropPenalty": 0 },
+  "difficulty": {
+    "easy": { "label": "Mudah", "targetCount": 4, "durationSeconds": 180, "showAllShadows": true, "distractorCount": 0 },
+    "medium": { "label": "Sedang", "targetCount": 6, "durationSeconds": 120, "showAllShadows": true, "distractorCount": 0 },
+    "hard": { "label": "Sulit", "targetCount": 8, "durationSeconds": 120, "showAllShadows": true, "distractorCount": 2 }
+  },
+  "stars": { "untimedCompletion": 1, "timedCompletion": 2, "fastCompletion": 3, "fastMinimumRemainingFraction": 0.3333333333333333 },
+  "messages": {
+    "wrongPlacement": "Coba tempat lainnya, ya!",
+    "timeUp": "Waktunya selesai! Kamu sudah memasang {placed} dari {total} benda.",
+    "success": "Hebat! Ruangannya sudah lengkap!",
+    "retry": "Coba Lagi",
+    "continueUntimed": "Lanjut Tanpa Waktu",
+    "challenge": "Main Tantangan",
+    "freeplay": "Bermain Bebas"
+  }
+}

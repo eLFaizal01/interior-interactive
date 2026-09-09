@@ -1,0 +1,44 @@
+{
+  "instruction": "Yuk, lengkapi kamar tidur ini!",
+  "roomId": "bedroom",
+  "levels": {
+    "easy": {
+      "targetIds": [
+        "bedroom-target-1",
+        "bedroom-target-2",
+        "bedroom-target-3",
+        "bedroom-target-4"
+      ],
+      "distractorFurnitureIds": []
+    },
+    "medium": {
+      "targetIds": [
+        "bedroom-target-1",
+        "bedroom-target-2",
+        "bedroom-target-3",
+        "bedroom-target-4",
+        "bedroom-target-5",
+        "bedroom-target-6"
+      ],
+      "distractorFurnitureIds": []
+    },
+    "hard": {
+      "targetIds": [
+        "bedroom-target-1",
+        "bedroom-target-2",
+        "bedroom-target-3",
+        "bedroom-target-4",
+        "bedroom-target-5",
+        "bedroom-target-6",
+        "bedroom-target-7",
+        "bedroom-target-8"
+      ],
+      "distractorFurnitureIds": [
+        "distractor-bathtub",
+        "distractor-stove"
+      ]
+    }
+  },
+  "schemaVersion": 1,
+  "id": "bedroom-challenge"
+}

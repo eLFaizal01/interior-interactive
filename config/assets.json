@@ -1,0 +1,1235 @@
+{
+  "schemaVersion": 1,
+  "pathBase": "project-root",
+  "assets": {
+    "room.bedroom": {
+      "type": "model",
+      "path": null,
+      "suggestedPath": "assets/models/rooms/bedroom/room.glb",
+      "defaultScale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "image.room.bedroom": {
+      "type": "image",
+      "path": null,
+      "suggestedPath": "assets/images/rooms/bedroom.png"
+    },
+    "model.bed": {
+      "type": "model",
+      "path": null,
+      "suggestedPath": "assets/models/furniture/bed/bed.glb",
+      "defaultScale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "image.bed": {
+      "type": "image",
+      "path": null,
+      "suggestedPath": "assets/images/furniture/bed.png"
+    },
+    "model.wardrobe": {
+      "type": "model",
+      "path": null,
+      "suggestedPath": "assets/models/furniture/wardrobe/wardrobe.glb",
+      "defaultScale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "image.wardrobe": {
+      "type": "image",
+      "path": null,
+      "suggestedPath": "assets/images/furniture/wardrobe.png"
+    },
+    "model.nightstand": {
+      "type": "model",
+      "path": null,
+      "suggestedPath": "assets/models/furniture/nightstand/nightstand.glb",
+      "defaultScale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "image.nightstand": {
+      "type": "image",
+      "path": null,
+      "suggestedPath": "assets/images/furniture/nightstand.png"
+    },
+    "model.bedroom-lamp": {
+      "type": "model",
+      "path": null,
+      "suggestedPath": "assets/models/furniture/bedroom-lamp/bedroom-lamp.glb",
+      "defaultScale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "image.bedroom-lamp": {
+      "type": "image",
+      "path": null,
+      "suggestedPath": "assets/images/furniture/bedroom-lamp.png"
+    },
+    "model.bedroom-rug": {
+      "type": "model",
+      "path": null,
+      "suggestedPath": "assets/models/furniture/bedroom-rug/bedroom-rug.glb",
+      "defaultScale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "image.bedroom-rug": {
+      "type": "image",
+      "path": null,
+      "suggestedPath": "assets/images/furniture/bedroom-rug.png"
+    },
+    "model.dresser": {
+      "type": "model",
+      "path": null,
+      "suggestedPath": "assets/models/furniture/dresser/dresser.glb",
+      "defaultScale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "image.dresser": {
+      "type": "image",
+      "path": null,
+      "suggestedPath": "assets/images/furniture/dresser.png"
+    },
+    "model.bedroom-chair": {
+      "type": "model",
+      "path": null,
+      "suggestedPath": "assets/models/furniture/bedroom-chair/bedroom-chair.glb",
+      "defaultScale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "image.bedroom-chair": {
+      "type": "image",
+      "path": null,
+      "suggestedPath": "assets/images/furniture/bedroom-chair.png"
+    },
+    "model.toy-box": {
+      "type": "model",
+      "path": null,
+      "suggestedPath": "assets/models/furniture/toy-box/toy-box.glb",
+      "defaultScale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "image.toy-box": {
+      "type": "image",
+      "path": null,
+      "suggestedPath": "assets/images/furniture/toy-box.png"
+    },
+    "room.living-room": {
+      "type": "model",
+      "path": null,
+      "suggestedPath": "assets/models/rooms/living-room/room.glb",
+      "defaultScale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "image.room.living-room": {
+      "type": "image",
+      "path": null,
+      "suggestedPath": "assets/images/rooms/living-room.png"
+    },
+    "model.sofa": {
+      "type": "model",
+      "path": null,
+      "suggestedPath": "assets/models/furniture/sofa/sofa.glb",
+      "defaultScale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "image.sofa": {
+      "type": "image",
+      "path": null,
+      "suggestedPath": "assets/images/furniture/sofa.png"
+    },
+    "model.coffee-table": {
+      "type": "model",
+      "path": null,
+      "suggestedPath": "assets/models/furniture/coffee-table/coffee-table.glb",
+      "defaultScale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "image.coffee-table": {
+      "type": "image",
+      "path": null,
+      "suggestedPath": "assets/images/furniture/coffee-table.png"
+    },
+    "model.armchair": {
+      "type": "model",
+      "path": null,
+      "suggestedPath": "assets/models/furniture/armchair/armchair.glb",
+      "defaultScale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "image.armchair": {
+      "type": "image",
+      "path": null,
+      "suggestedPath": "assets/images/furniture/armchair.png"
+    },
+    "model.tv-cabinet": {
+      "type": "model",
+      "path": null,
+      "suggestedPath": "assets/models/furniture/tv-cabinet/tv-cabinet.glb",
+      "defaultScale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "image.tv-cabinet": {
+      "type": "image",
+      "path": null,
+      "suggestedPath": "assets/images/furniture/tv-cabinet.png"
+    },
+    "model.floor-lamp": {
+      "type": "model",
+      "path": null,
+      "suggestedPath": "assets/models/furniture/floor-lamp/floor-lamp.glb",
+      "defaultScale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "image.floor-lamp": {
+      "type": "image",
+      "path": null,
+      "suggestedPath": "assets/images/furniture/floor-lamp.png"
+    },
+    "model.living-rug": {
+      "type": "model",
+      "path": null,
+      "suggestedPath": "assets/models/furniture/living-rug/living-rug.glb",
+      "defaultScale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "image.living-rug": {
+      "type": "image",
+      "path": null,
+      "suggestedPath": "assets/images/furniture/living-rug.png"
+    },
+    "model.side-table": {
+      "type": "model",
+      "path": null,
+      "suggestedPath": "assets/models/furniture/side-table/side-table.glb",
+      "defaultScale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "image.side-table": {
+      "type": "image",
+      "path": null,
+      "suggestedPath": "assets/images/furniture/side-table.png"
+    },
+    "model.plant": {
+      "type": "model",
+      "path": null,
+      "suggestedPath": "assets/models/furniture/plant/plant.glb",
+      "defaultScale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "image.plant": {
+      "type": "image",
+      "path": null,
+      "suggestedPath": "assets/images/furniture/plant.png"
+    },
+    "room.study-room": {
+      "type": "model",
+      "path": null,
+      "suggestedPath": "assets/models/rooms/study-room/room.glb",
+      "defaultScale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "image.room.study-room": {
+      "type": "image",
+      "path": null,
+      "suggestedPath": "assets/images/rooms/study-room.png"
+    },
+    "model.desk": {
+      "type": "model",
+      "path": null,
+      "suggestedPath": "assets/models/furniture/desk/desk.glb",
+      "defaultScale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "image.desk": {
+      "type": "image",
+      "path": null,
+      "suggestedPath": "assets/images/furniture/desk.png"
+    },
+    "model.study-chair": {
+      "type": "model",
+      "path": null,
+      "suggestedPath": "assets/models/furniture/study-chair/study-chair.glb",
+      "defaultScale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "image.study-chair": {
+      "type": "image",
+      "path": null,
+      "suggestedPath": "assets/images/furniture/study-chair.png"
+    },
+    "model.bookshelf": {
+      "type": "model",
+      "path": null,
+      "suggestedPath": "assets/models/furniture/bookshelf/bookshelf.glb",
+      "defaultScale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "image.bookshelf": {
+      "type": "image",
+      "path": null,
+      "suggestedPath": "assets/images/furniture/bookshelf.png"
+    },
+    "model.storage-cabinet": {
+      "type": "model",
+      "path": null,
+      "suggestedPath": "assets/models/furniture/storage-cabinet/storage-cabinet.glb",
+      "defaultScale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "image.storage-cabinet": {
+      "type": "image",
+      "path": null,
+      "suggestedPath": "assets/images/furniture/storage-cabinet.png"
+    },
+    "model.reading-chair": {
+      "type": "model",
+      "path": null,
+      "suggestedPath": "assets/models/furniture/reading-chair/reading-chair.glb",
+      "defaultScale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "image.reading-chair": {
+      "type": "image",
+      "path": null,
+      "suggestedPath": "assets/images/furniture/reading-chair.png"
+    },
+    "model.study-rug": {
+      "type": "model",
+      "path": null,
+      "suggestedPath": "assets/models/furniture/study-rug/study-rug.glb",
+      "defaultScale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "image.study-rug": {
+      "type": "image",
+      "path": null,
+      "suggestedPath": "assets/images/furniture/study-rug.png"
+    },
+    "model.book-cart": {
+      "type": "model",
+      "path": null,
+      "suggestedPath": "assets/models/furniture/book-cart/book-cart.glb",
+      "defaultScale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "image.book-cart": {
+      "type": "image",
+      "path": null,
+      "suggestedPath": "assets/images/furniture/book-cart.png"
+    },
+    "model.study-plant": {
+      "type": "model",
+      "path": null,
+      "suggestedPath": "assets/models/furniture/study-plant/study-plant.glb",
+      "defaultScale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "image.study-plant": {
+      "type": "image",
+      "path": null,
+      "suggestedPath": "assets/images/furniture/study-plant.png"
+    },
+    "model.distractor-bathtub": {
+      "type": "model",
+      "path": null,
+      "suggestedPath": "assets/models/furniture/distractor-bathtub/distractor-bathtub.glb",
+      "defaultScale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "image.distractor-bathtub": {
+      "type": "image",
+      "path": null,
+      "suggestedPath": "assets/images/furniture/distractor-bathtub.png"
+    },
+    "model.distractor-stove": {
+      "type": "model",
+      "path": null,
+      "suggestedPath": "assets/models/furniture/distractor-stove/distractor-stove.glb",
+      "defaultScale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "image.distractor-stove": {
+      "type": "image",
+      "path": null,
+      "suggestedPath": "assets/images/furniture/distractor-stove.png"
+    },
+    "audio.correct": {
+      "type": "audio",
+      "path": null,
+      "suggestedPath": "assets/audio/sfx/correct.wav"
+    },
+    "audio.celebration": {
+      "type": "audio",
+      "path": null,
+      "suggestedPath": "assets/audio/sfx/celebration.wav"
+    },
+    "audio.click": {
+      "type": "audio",
+      "path": null,
+      "suggestedPath": "assets/audio/sfx/click.wav"
+    },
+    "ui.icons.play": {
+      "type": "image",
+      "path": "assets/images/ui/icons/play.svg",
+      "pngPath": "assets/images/ui/icons/play.png",
+      "logicalSize": [
+        64,
+        64
+      ],
+      "pngScale": 2
+    },
+    "ui.icons.pause": {
+      "type": "image",
+      "path": "assets/images/ui/icons/pause.svg",
+      "pngPath": "assets/images/ui/icons/pause.png",
+      "logicalSize": [
+        64,
+        64
+      ],
+      "pngScale": 2
+    },
+    "ui.icons.home": {
+      "type": "image",
+      "path": "assets/images/ui/icons/home.svg",
+      "pngPath": "assets/images/ui/icons/home.png",
+      "logicalSize": [
+        64,
+        64
+      ],
+      "pngScale": 2
+    },
+    "ui.icons.back": {
+      "type": "image",
+      "path": "assets/images/ui/icons/back.svg",
+      "pngPath": "assets/images/ui/icons/back.png",
+      "logicalSize": [
+        64,
+        64
+      ],
+      "pngScale": 2
+    },
+    "ui.icons.next": {
+      "type": "image",
+      "path": "assets/images/ui/icons/next.svg",
+      "pngPath": "assets/images/ui/icons/next.png",
+      "logicalSize": [
+        64,
+        64
+      ],
+      "pngScale": 2
+    },
+    "ui.icons.close": {
+      "type": "image",
+      "path": "assets/images/ui/icons/close.svg",
+      "pngPath": "assets/images/ui/icons/close.png",
+      "logicalSize": [
+        64,
+        64
+      ],
+      "pngScale": 2
+    },
+    "ui.icons.check": {
+      "type": "image",
+      "path": "assets/images/ui/icons/check.svg",
+      "pngPath": "assets/images/ui/icons/check.png",
+      "logicalSize": [
+        64,
+        64
+      ],
+      "pngScale": 2
+    },
+    "ui.icons.retry": {
+      "type": "image",
+      "path": "assets/images/ui/icons/retry.svg",
+      "pngPath": "assets/images/ui/icons/retry.png",
+      "logicalSize": [
+        64,
+        64
+      ],
+      "pngScale": 2
+    },
+    "ui.icons.hint": {
+      "type": "image",
+      "path": "assets/images/ui/icons/hint.svg",
+      "pngPath": "assets/images/ui/icons/hint.png",
+      "logicalSize": [
+        64,
+        64
+      ],
+      "pngScale": 2
+    },
+    "ui.icons.preview": {
+      "type": "image",
+      "path": "assets/images/ui/icons/preview.svg",
+      "pngPath": "assets/images/ui/icons/preview.png",
+      "logicalSize": [
+        64,
+        64
+      ],
+      "pngScale": 2
+    },
+    "ui.icons.timer": {
+      "type": "image",
+      "path": "assets/images/ui/icons/timer.svg",
+      "pngPath": "assets/images/ui/icons/timer.png",
+      "logicalSize": [
+        64,
+        64
+      ],
+      "pngScale": 2
+    },
+    "ui.icons.infinity": {
+      "type": "image",
+      "path": "assets/images/ui/icons/infinity.svg",
+      "pngPath": "assets/images/ui/icons/infinity.png",
+      "logicalSize": [
+        64,
+        64
+      ],
+      "pngScale": 2
+    },
+    "ui.icons.sound-on": {
+      "type": "image",
+      "path": "assets/images/ui/icons/sound-on.svg",
+      "pngPath": "assets/images/ui/icons/sound-on.png",
+      "logicalSize": [
+        64,
+        64
+      ],
+      "pngScale": 2
+    },
+    "ui.icons.sound-off": {
+      "type": "image",
+      "path": "assets/images/ui/icons/sound-off.svg",
+      "pngPath": "assets/images/ui/icons/sound-off.png",
+      "logicalSize": [
+        64,
+        64
+      ],
+      "pngScale": 2
+    },
+    "ui.icons.lock": {
+      "type": "image",
+      "path": "assets/images/ui/icons/lock.svg",
+      "pngPath": "assets/images/ui/icons/lock.png",
+      "logicalSize": [
+        64,
+        64
+      ],
+      "pngScale": 2
+    },
+    "ui.icons.drag": {
+      "type": "image",
+      "path": "assets/images/ui/icons/drag.svg",
+      "pngPath": "assets/images/ui/icons/drag.png",
+      "logicalSize": [
+        64,
+        64
+      ],
+      "pngScale": 2
+    },
+    "ui.icons.camera": {
+      "type": "image",
+      "path": "assets/images/ui/icons/camera.svg",
+      "pngPath": "assets/images/ui/icons/camera.png",
+      "logicalSize": [
+        64,
+        64
+      ],
+      "pngScale": 2
+    },
+    "ui.icons.help": {
+      "type": "image",
+      "path": "assets/images/ui/icons/help.svg",
+      "pngPath": "assets/images/ui/icons/help.png",
+      "logicalSize": [
+        64,
+        64
+      ],
+      "pngScale": 2
+    },
+    "ui.icons.bedroom": {
+      "type": "image",
+      "path": "assets/images/ui/icons/bedroom.svg",
+      "pngPath": "assets/images/ui/icons/bedroom.png",
+      "logicalSize": [
+        64,
+        64
+      ],
+      "pngScale": 2
+    },
+    "ui.icons.living-room": {
+      "type": "image",
+      "path": "assets/images/ui/icons/living-room.svg",
+      "pngPath": "assets/images/ui/icons/living-room.png",
+      "logicalSize": [
+        64,
+        64
+      ],
+      "pngScale": 2
+    },
+    "ui.icons.study-room": {
+      "type": "image",
+      "path": "assets/images/ui/icons/study-room.svg",
+      "pngPath": "assets/images/ui/icons/study-room.png",
+      "logicalSize": [
+        64,
+        64
+      ],
+      "pngScale": 2
+    },
+    "ui.buttons.primary-normal": {
+      "type": "image",
+      "path": "assets/images/ui/buttons/primary-normal.svg",
+      "pngPath": "assets/images/ui/buttons/primary-normal.png",
+      "logicalSize": [
+        320,
+        80
+      ],
+      "pngScale": 2,
+      "nineSliceInsetsLogical": [
+        28,
+        30,
+        28,
+        30
+      ]
+    },
+    "ui.buttons.primary-hover": {
+      "type": "image",
+      "path": "assets/images/ui/buttons/primary-hover.svg",
+      "pngPath": "assets/images/ui/buttons/primary-hover.png",
+      "logicalSize": [
+        320,
+        80
+      ],
+      "pngScale": 2,
+      "nineSliceInsetsLogical": [
+        28,
+        30,
+        28,
+        30
+      ]
+    },
+    "ui.buttons.primary-pressed": {
+      "type": "image",
+      "path": "assets/images/ui/buttons/primary-pressed.svg",
+      "pngPath": "assets/images/ui/buttons/primary-pressed.png",
+      "logicalSize": [
+        320,
+        80
+      ],
+      "pngScale": 2,
+      "nineSliceInsetsLogical": [
+        28,
+        30,
+        28,
+        30
+      ]
+    },
+    "ui.buttons.secondary-normal": {
+      "type": "image",
+      "path": "assets/images/ui/buttons/secondary-normal.svg",
+      "pngPath": "assets/images/ui/buttons/secondary-normal.png",
+      "logicalSize": [
+        320,
+        80
+      ],
+      "pngScale": 2,
+      "nineSliceInsetsLogical": [
+        28,
+        30,
+        28,
+        30
+      ]
+    },
+    "ui.buttons.secondary-hover": {
+      "type": "image",
+      "path": "assets/images/ui/buttons/secondary-hover.svg",
+      "pngPath": "assets/images/ui/buttons/secondary-hover.png",
+      "logicalSize": [
+        320,
+        80
+      ],
+      "pngScale": 2,
+      "nineSliceInsetsLogical": [
+        28,
+        30,
+        28,
+        30
+      ]
+    },
+    "ui.buttons.secondary-pressed": {
+      "type": "image",
+      "path": "assets/images/ui/buttons/secondary-pressed.svg",
+      "pngPath": "assets/images/ui/buttons/secondary-pressed.png",
+      "logicalSize": [
+        320,
+        80
+      ],
+      "pngScale": 2,
+      "nineSliceInsetsLogical": [
+        28,
+        30,
+        28,
+        30
+      ]
+    },
+    "ui.buttons.accent-normal": {
+      "type": "image",
+      "path": "assets/images/ui/buttons/accent-normal.svg",
+      "pngPath": "assets/images/ui/buttons/accent-normal.png",
+      "logicalSize": [
+        320,
+        80
+      ],
+      "pngScale": 2,
+      "nineSliceInsetsLogical": [
+        28,
+        30,
+        28,
+        30
+      ]
+    },
+    "ui.buttons.accent-hover": {
+      "type": "image",
+      "path": "assets/images/ui/buttons/accent-hover.svg",
+      "pngPath": "assets/images/ui/buttons/accent-hover.png",
+      "logicalSize": [
+        320,
+        80
+      ],
+      "pngScale": 2,
+      "nineSliceInsetsLogical": [
+        28,
+        30,
+        28,
+        30
+      ]
+    },
+    "ui.buttons.accent-pressed": {
+      "type": "image",
+      "path": "assets/images/ui/buttons/accent-pressed.svg",
+      "pngPath": "assets/images/ui/buttons/accent-pressed.png",
+      "logicalSize": [
+        320,
+        80
+      ],
+      "pngScale": 2,
+      "nineSliceInsetsLogical": [
+        28,
+        30,
+        28,
+        30
+      ]
+    },
+    "ui.buttons.disabled": {
+      "type": "image",
+      "path": "assets/images/ui/buttons/disabled.svg",
+      "pngPath": "assets/images/ui/buttons/disabled.png",
+      "logicalSize": [
+        320,
+        80
+      ],
+      "pngScale": 2,
+      "nineSliceInsetsLogical": [
+        28,
+        30,
+        28,
+        30
+      ]
+    },
+    "ui.buttons.icon-normal": {
+      "type": "image",
+      "path": "assets/images/ui/buttons/icon-normal.svg",
+      "pngPath": "assets/images/ui/buttons/icon-normal.png",
+      "logicalSize": [
+        80,
+        80
+      ],
+      "pngScale": 2,
+      "nineSliceInsetsLogical": [
+        28,
+        28,
+        28,
+        28
+      ]
+    },
+    "ui.buttons.icon-hover": {
+      "type": "image",
+      "path": "assets/images/ui/buttons/icon-hover.svg",
+      "pngPath": "assets/images/ui/buttons/icon-hover.png",
+      "logicalSize": [
+        80,
+        80
+      ],
+      "pngScale": 2,
+      "nineSliceInsetsLogical": [
+        28,
+        28,
+        28,
+        28
+      ]
+    },
+    "ui.buttons.icon-pressed": {
+      "type": "image",
+      "path": "assets/images/ui/buttons/icon-pressed.svg",
+      "pngPath": "assets/images/ui/buttons/icon-pressed.png",
+      "logicalSize": [
+        80,
+        80
+      ],
+      "pngScale": 2,
+      "nineSliceInsetsLogical": [
+        28,
+        28,
+        28,
+        28
+      ]
+    },
+    "ui.buttons.icon-disabled": {
+      "type": "image",
+      "path": "assets/images/ui/buttons/icon-disabled.svg",
+      "pngPath": "assets/images/ui/buttons/icon-disabled.png",
+      "logicalSize": [
+        80,
+        80
+      ],
+      "pngScale": 2,
+      "nineSliceInsetsLogical": [
+        28,
+        28,
+        28,
+        28
+      ]
+    },
+    "ui.panels.catalog": {
+      "type": "image",
+      "path": "assets/images/ui/panels/catalog.svg",
+      "pngPath": "assets/images/ui/panels/catalog.png",
+      "logicalSize": [
+        300,
+        760
+      ],
+      "pngScale": 2,
+      "nineSliceInsetsLogical": [
+        34,
+        34,
+        34,
+        34
+      ]
+    },
+    "ui.panels.modal": {
+      "type": "image",
+      "path": "assets/images/ui/panels/modal.svg",
+      "pngPath": "assets/images/ui/panels/modal.png",
+      "logicalSize": [
+        640,
+        480
+      ],
+      "pngScale": 2,
+      "nineSliceInsetsLogical": [
+        34,
+        34,
+        34,
+        34
+      ]
+    },
+    "ui.panels.hud": {
+      "type": "image",
+      "path": "assets/images/ui/panels/hud.svg",
+      "pngPath": "assets/images/ui/panels/hud.png",
+      "logicalSize": [
+        760,
+        104
+      ],
+      "pngScale": 2,
+      "nineSliceInsetsLogical": [
+        34,
+        34,
+        34,
+        34
+      ]
+    },
+    "ui.panels.tooltip": {
+      "type": "image",
+      "path": "assets/images/ui/panels/tooltip.svg",
+      "pngPath": "assets/images/ui/panels/tooltip.png",
+      "logicalSize": [
+        360,
+        104
+      ],
+      "pngScale": 2,
+      "nineSliceInsetsLogical": [
+        34,
+        34,
+        34,
+        34
+      ]
+    },
+    "ui.panels.card-normal": {
+      "type": "image",
+      "path": "assets/images/ui/panels/card-normal.svg",
+      "pngPath": "assets/images/ui/panels/card-normal.png",
+      "logicalSize": [
+        240,
+        200
+      ],
+      "pngScale": 2,
+      "nineSliceInsetsLogical": [
+        34,
+        34,
+        34,
+        34
+      ]
+    },
+    "ui.panels.card-selected": {
+      "type": "image",
+      "path": "assets/images/ui/panels/card-selected.svg",
+      "pngPath": "assets/images/ui/panels/card-selected.png",
+      "logicalSize": [
+        240,
+        200
+      ],
+      "pngScale": 2,
+      "nineSliceInsetsLogical": [
+        34,
+        34,
+        34,
+        34
+      ]
+    },
+    "ui.panels.card-complete": {
+      "type": "image",
+      "path": "assets/images/ui/panels/card-complete.svg",
+      "pngPath": "assets/images/ui/panels/card-complete.png",
+      "logicalSize": [
+        240,
+        200
+      ],
+      "pngScale": 2,
+      "nineSliceInsetsLogical": [
+        34,
+        34,
+        34,
+        34
+      ]
+    },
+    "ui.panels.card-disabled": {
+      "type": "image",
+      "path": "assets/images/ui/panels/card-disabled.svg",
+      "pngPath": "assets/images/ui/panels/card-disabled.png",
+      "logicalSize": [
+        240,
+        200
+      ],
+      "pngScale": 2,
+      "nineSliceInsetsLogical": [
+        34,
+        34,
+        34,
+        34
+      ]
+    },
+    "ui.panels.room-card": {
+      "type": "image",
+      "path": "assets/images/ui/panels/room-card.svg",
+      "pngPath": "assets/images/ui/panels/room-card.png",
+      "logicalSize": [
+        360,
+        300
+      ],
+      "pngScale": 2,
+      "nineSliceInsetsLogical": [
+        34,
+        34,
+        34,
+        34
+      ]
+    },
+    "ui.rewards.star-filled": {
+      "type": "image",
+      "path": "assets/images/ui/rewards/star-filled.svg",
+      "pngPath": "assets/images/ui/rewards/star-filled.png",
+      "logicalSize": [
+        128,
+        128
+      ],
+      "pngScale": 2
+    },
+    "ui.rewards.star-empty": {
+      "type": "image",
+      "path": "assets/images/ui/rewards/star-empty.svg",
+      "pngPath": "assets/images/ui/rewards/star-empty.png",
+      "logicalSize": [
+        128,
+        128
+      ],
+      "pngScale": 2
+    },
+    "ui.badges.complete": {
+      "type": "image",
+      "path": "assets/images/ui/badges/complete.svg",
+      "pngPath": "assets/images/ui/badges/complete.png",
+      "logicalSize": [
+        64,
+        64
+      ],
+      "pngScale": 2
+    },
+    "ui.badges.locked": {
+      "type": "image",
+      "path": "assets/images/ui/badges/locked.svg",
+      "pngPath": "assets/images/ui/badges/locked.png",
+      "logicalSize": [
+        64,
+        64
+      ],
+      "pngScale": 2
+    },
+    "ui.badges.easy": {
+      "type": "image",
+      "path": "assets/images/ui/badges/easy.svg",
+      "pngPath": "assets/images/ui/badges/easy.png",
+      "logicalSize": [
+        160,
+        56
+      ],
+      "pngScale": 2,
+      "nineSliceInsetsLogical": [
+        26,
+        26,
+        26,
+        26
+      ]
+    },
+    "ui.badges.medium": {
+      "type": "image",
+      "path": "assets/images/ui/badges/medium.svg",
+      "pngPath": "assets/images/ui/badges/medium.png",
+      "logicalSize": [
+        160,
+        56
+      ],
+      "pngScale": 2,
+      "nineSliceInsetsLogical": [
+        26,
+        26,
+        26,
+        26
+      ]
+    },
+    "ui.badges.hard": {
+      "type": "image",
+      "path": "assets/images/ui/badges/hard.svg",
+      "pngPath": "assets/images/ui/badges/hard.png",
+      "logicalSize": [
+        160,
+        56
+      ],
+      "pngScale": 2,
+      "nineSliceInsetsLogical": [
+        26,
+        26,
+        26,
+        26
+      ]
+    },
+    "ui.progress.track": {
+      "type": "image",
+      "path": "assets/images/ui/progress/track.svg",
+      "pngPath": "assets/images/ui/progress/track.png",
+      "logicalSize": [
+        360,
+        28
+      ],
+      "pngScale": 2,
+      "nineSliceInsetsLogical": [
+        14,
+        14,
+        14,
+        14
+      ]
+    },
+    "ui.progress.fill": {
+      "type": "image",
+      "path": "assets/images/ui/progress/fill.svg",
+      "pngPath": "assets/images/ui/progress/fill.png",
+      "logicalSize": [
+        360,
+        28
+      ],
+      "pngScale": 2,
+      "nineSliceInsetsLogical": [
+        14,
+        14,
+        14,
+        14
+      ]
+    },
+    "ui.progress.timer-idle": {
+      "type": "image",
+      "path": "assets/images/ui/progress/timer-idle.svg",
+      "pngPath": "assets/images/ui/progress/timer-idle.png",
+      "logicalSize": [
+        180,
+        64
+      ],
+      "pngScale": 2,
+      "nineSliceInsetsLogical": [
+        24,
+        24,
+        24,
+        24
+      ]
+    },
+    "ui.progress.timer-low": {
+      "type": "image",
+      "path": "assets/images/ui/progress/timer-low.svg",
+      "pngPath": "assets/images/ui/progress/timer-low.png",
+      "logicalSize": [
+        180,
+        64
+      ],
+      "pngScale": 2,
+      "nineSliceInsetsLogical": [
+        24,
+        24,
+        24,
+        24
+      ]
+    },
+    "ui.effects.sparkle": {
+      "type": "image",
+      "path": "assets/images/ui/effects/sparkle.svg",
+      "pngPath": "assets/images/ui/effects/sparkle.png",
+      "logicalSize": [
+        128,
+        128
+      ],
+      "pngScale": 2
+    },
+    "ui.effects.target-neutral": {
+      "type": "image",
+      "path": "assets/images/ui/effects/target-neutral.svg",
+      "pngPath": "assets/images/ui/effects/target-neutral.png",
+      "logicalSize": [
+        256,
+        128
+      ],
+      "pngScale": 2
+    },
+    "ui.effects.target-valid": {
+      "type": "image",
+      "path": "assets/images/ui/effects/target-valid.svg",
+      "pngPath": "assets/images/ui/effects/target-valid.png",
+      "logicalSize": [
+        256,
+        128
+      ],
+      "pngScale": 2
+    },
+    "ui.effects.confetti": {
+      "type": "image",
+      "path": "assets/images/ui/effects/confetti.svg",
+      "pngPath": "assets/images/ui/effects/confetti.png",
+      "logicalSize": [
+        400,
+        210
+      ],
+      "pngScale": 2
+    },
+    "ui.backgrounds.menu-room": {
+      "type": "image",
+      "path": "assets/images/ui/backgrounds/menu-room.png",
+      "pixelSize": [
+        1536,
+        1024
+      ],
+      "usage": "Menu background; keep right-side furniture visible and overlay text on left."
+    }
+  }
+}

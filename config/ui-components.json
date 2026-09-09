@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "theme": "config/ui-theme.json",
+  "assetManifest": "config/ui-assets.json",
+  "buttons": {
+    "challenge": { "label": "Main Tantangan", "style": "primary", "icon": "play" },
+    "freeplay": { "label": "Bermain Bebas", "style": "secondary", "icon": "infinity" },
+    "start": { "label": "Ayo Mulai!", "style": "primary", "icon": "play" },
+    "hint": { "label": "Petunjuk", "style": "secondary", "icon": "hint" },
+    "preview": { "label": "Tampilan Awal", "style": "secondary", "icon": "preview" },
+    "pause": { "label": "Jeda", "style": "secondary", "icon": "pause" },
+    "resume": { "label": "Lanjut Main", "style": "primary", "icon": "play" },
+    "retry": { "label": "Coba Lagi", "style": "primary", "icon": "retry" },
+    "continueUntimed": { "label": "Lanjut Tanpa Waktu", "style": "secondary", "icon": "infinity" },
+    "chooseRoom": { "label": "Pilih Ruangan", "style": "accent", "icon": "home" }
+  },
+  "copy": {
+    "title": "Ayo Lengkapi Ruangan!",
+    "subtitle": "Tarik, pasang, dan buat ruangmu nyaman.",
+    "catalogTitle": "Ayo pasang!",
+    "catalogHelp": "Tarik benda ke bayangannya",
+    "progress": "{placed}/{total} benda",
+    "timerReady": "Waktu mulai setelah contoh selesai",
+    "paused": "Istirahat sebentar, yuk!",
+    "success": "Hebat! Ruangannya lengkap!",
+    "timeUp": "Waktunya selesai!",
+    "timeUpDetail": "Kamu sudah memasang {placed} dari {total} benda.",
+    "wrongDrop": "Coba tempat lainnya, ya!",
+    "completedItem": "Sudah dipasang",
+    "untimed": "Tanpa waktu"
+  },
+  "composition": {
+    "buttonAssetPattern": "ui.buttons.{style}-{state}",
+    "iconAssetPattern": "ui.icons.{icon}",
+    "states": ["normal", "hover", "pressed"],
+    "disabledButtonAsset": "ui.buttons.disabled",
+    "iconOnlyButtonAssetPattern": "ui.buttons.icon-{state}",
+    "completedCard": ["ui.panels.card-complete", "ui.badges.complete"],
+    "selectedCard": ["ui.panels.card-selected"],
+    "resultStarFilled": "ui.rewards.star-filled",
+    "resultStarEmpty": "ui.rewards.star-empty"
+  }
+}

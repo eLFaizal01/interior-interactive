@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "modelAssetId": "model.distractor-bathtub",
+      "label": "Bak Mandi",
+      "id": "distractor-bathtub",
+      "thumbnailAssetId": "image.distractor-bathtub"
+    },
+    {
+      "modelAssetId": "model.distractor-stove",
+      "label": "Kompor",
+      "id": "distractor-stove",
+      "thumbnailAssetId": "image.distractor-stove"
+    }
+  ]
+}

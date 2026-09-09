@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "name": "Ruang Ceria",
+  "colors": {
+    "background": "#F6F0E3",
+    "surface": "#FFFCF4",
+    "text": "#234B50",
+    "primary": "#237D79",
+    "onPrimary": "#FFFFFF",
+    "accent": "#FFD36B",
+    "success": "#43865C",
+    "muted": "#60786F"
+  },
+  "typography": {
+    "preferredFamily": "Nunito",
+    "fallback": [
+      "Segoe UI",
+      "Arial",
+      "sans-serif"
+    ],
+    "fontBundled": false,
+    "titleSize": 40,
+    "bodySize": 20,
+    "buttonSize": 22,
+    "smallSize": 16
+  },
+  "touch": {
+    "minimumTarget": 64,
+    "recommendedTarget": 80,
+    "gap": 12
+  },
+  "layout": {
+    "referenceSize": [
+      1440,
+      900
+    ],
+    "catalogWidth": 300,
+    "safeMargin": 24
+  },
+  "motion": {
+    "buttonMilliseconds": 120,
+    "snapMilliseconds": 180,
+    "sparkleMilliseconds": 450,
+    "respectReducedMotion": true
+  },
+  "textColors": {
+    "primaryButton": "#FFFFFF",
+    "secondaryButton": "#234B50",
+    "accentButton": "#234B50",
+    "disabledButton": "#60786F",
+    "tooltip": "#FFFFFF"
+  },
+  "notes": [
+    "Logical units follow SVG viewBox. PNGs export at 2x.",
+    "All labels are rendered separately by the application."
+  ]
+}

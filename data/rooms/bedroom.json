@@ -1,0 +1,259 @@
+{
+  "suggestedFloorSizeMeters": [
+    7,
+    7
+  ],
+  "targets": [
+    {
+      "furnitureId": "bed",
+      "transform": {
+        "position": [
+          -1.6,
+          0,
+          -1.4
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotationDegrees": [
+          0,
+          0,
+          0
+        ]
+      },
+      "footprintMeters": [
+        1,
+        1
+      ],
+      "label": "Tempat Tidur",
+      "id": "bedroom-target-1",
+      "shadowAssetId": null,
+      "thumbnailAssetId": "image.bed",
+      "modelAssetId": "model.bed"
+    },
+    {
+      "furnitureId": "wardrobe",
+      "transform": {
+        "position": [
+          1.8,
+          0,
+          -1.5
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotationDegrees": [
+          0,
+          0,
+          0
+        ]
+      },
+      "footprintMeters": [
+        1,
+        1
+      ],
+      "label": "Lemari Pakaian",
+      "id": "bedroom-target-2",
+      "shadowAssetId": null,
+      "thumbnailAssetId": "image.wardrobe",
+      "modelAssetId": "model.wardrobe"
+    },
+    {
+      "furnitureId": "nightstand",
+      "transform": {
+        "position": [
+          -2.4,
+          0,
+          0.3
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotationDegrees": [
+          0,
+          0,
+          0
+        ]
+      },
+      "footprintMeters": [
+        1,
+        1
+      ],
+      "label": "Meja Samping",
+      "id": "bedroom-target-3",
+      "shadowAssetId": null,
+      "thumbnailAssetId": "image.nightstand",
+      "modelAssetId": "model.nightstand"
+    },
+    {
+      "furnitureId": "bedroom-lamp",
+      "transform": {
+        "position": [
+          2.4,
+          0,
+          0.3
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotationDegrees": [
+          0,
+          0,
+          0
+        ]
+      },
+      "footprintMeters": [
+        1,
+        1
+      ],
+      "label": "Lampu Kamar",
+      "id": "bedroom-target-4",
+      "shadowAssetId": null,
+      "thumbnailAssetId": "image.bedroom-lamp",
+      "modelAssetId": "model.bedroom-lamp"
+    },
+    {
+      "furnitureId": "bedroom-rug",
+      "transform": {
+        "position": [
+          -1.8,
+          0,
+          2
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotationDegrees": [
+          0,
+          0,
+          0
+        ]
+      },
+      "footprintMeters": [
+        1,
+        1
+      ],
+      "label": "Karpet Kamar",
+      "id": "bedroom-target-5",
+      "shadowAssetId": null,
+      "thumbnailAssetId": "image.bedroom-rug",
+      "modelAssetId": "model.bedroom-rug"
+    },
+    {
+      "furnitureId": "dresser",
+      "transform": {
+        "position": [
+          0,
+          0,
+          0.8
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotationDegrees": [
+          0,
+          0,
+          0
+        ]
+      },
+      "footprintMeters": [
+        1,
+        1
+      ],
+      "label": "Meja Rias",
+      "id": "bedroom-target-6",
+      "shadowAssetId": null,
+      "thumbnailAssetId": "image.dresser",
+      "modelAssetId": "model.dresser"
+    },
+    {
+      "furnitureId": "bedroom-chair",
+      "transform": {
+        "position": [
+          1.8,
+          0,
+          2
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotationDegrees": [
+          0,
+          0,
+          0
+        ]
+      },
+      "footprintMeters": [
+        1,
+        1
+      ],
+      "label": "Kursi Kamar",
+      "id": "bedroom-target-7",
+      "shadowAssetId": null,
+      "thumbnailAssetId": "image.bedroom-chair",
+      "modelAssetId": "model.bedroom-chair"
+    },
+    {
+      "furnitureId": "toy-box",
+      "transform": {
+        "position": [
+          0,
+          0,
+          -2.4
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotationDegrees": [
+          0,
+          0,
+          0
+        ]
+      },
+      "footprintMeters": [
+        1,
+        1
+      ],
+      "label": "Kotak Mainan",
+      "id": "bedroom-target-8",
+      "shadowAssetId": null,
+      "thumbnailAssetId": "image.toy-box",
+      "modelAssetId": "model.toy-box"
+    }
+  ],
+  "roomModelAssetId": "room.bedroom",
+  "name": "Kamar Tidur",
+  "camera": {
+    "position": [
+      8,
+      7,
+      9
+    ],
+    "lookAt": [
+      0,
+      0,
+      0
+    ],
+    "projection": "perspective"
+  },
+  "layoutStatus": "draft-needs-real-model-alignment",
+  "schemaVersion": 1,
+  "thumbnailAssetId": "image.room.bedroom",
+  "id": "bedroom"
+}

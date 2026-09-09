@@ -1,0 +1,259 @@
+{
+  "suggestedFloorSizeMeters": [
+    7,
+    7
+  ],
+  "targets": [
+    {
+      "furnitureId": "desk",
+      "transform": {
+        "position": [
+          -1.6,
+          0,
+          -1.4
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotationDegrees": [
+          0,
+          0,
+          0
+        ]
+      },
+      "footprintMeters": [
+        1,
+        1
+      ],
+      "label": "Meja Belajar",
+      "id": "study-room-target-1",
+      "shadowAssetId": null,
+      "thumbnailAssetId": "image.desk",
+      "modelAssetId": "model.desk"
+    },
+    {
+      "furnitureId": "study-chair",
+      "transform": {
+        "position": [
+          1.8,
+          0,
+          -1.5
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotationDegrees": [
+          0,
+          0,
+          0
+        ]
+      },
+      "footprintMeters": [
+        1,
+        1
+      ],
+      "label": "Kursi Belajar",
+      "id": "study-room-target-2",
+      "shadowAssetId": null,
+      "thumbnailAssetId": "image.study-chair",
+      "modelAssetId": "model.study-chair"
+    },
+    {
+      "furnitureId": "bookshelf",
+      "transform": {
+        "position": [
+          -2.4,
+          0,
+          0.3
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotationDegrees": [
+          0,
+          0,
+          0
+        ]
+      },
+      "footprintMeters": [
+        1,
+        1
+      ],
+      "label": "Rak Buku",
+      "id": "study-room-target-3",
+      "shadowAssetId": null,
+      "thumbnailAssetId": "image.bookshelf",
+      "modelAssetId": "model.bookshelf"
+    },
+    {
+      "furnitureId": "storage-cabinet",
+      "transform": {
+        "position": [
+          2.4,
+          0,
+          0.3
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotationDegrees": [
+          0,
+          0,
+          0
+        ]
+      },
+      "footprintMeters": [
+        1,
+        1
+      ],
+      "label": "Lemari Penyimpanan",
+      "id": "study-room-target-4",
+      "shadowAssetId": null,
+      "thumbnailAssetId": "image.storage-cabinet",
+      "modelAssetId": "model.storage-cabinet"
+    },
+    {
+      "furnitureId": "reading-chair",
+      "transform": {
+        "position": [
+          -1.8,
+          0,
+          2
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotationDegrees": [
+          0,
+          0,
+          0
+        ]
+      },
+      "footprintMeters": [
+        1,
+        1
+      ],
+      "label": "Kursi Baca",
+      "id": "study-room-target-5",
+      "shadowAssetId": null,
+      "thumbnailAssetId": "image.reading-chair",
+      "modelAssetId": "model.reading-chair"
+    },
+    {
+      "furnitureId": "study-rug",
+      "transform": {
+        "position": [
+          0,
+          0,
+          0.8
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotationDegrees": [
+          0,
+          0,
+          0
+        ]
+      },
+      "footprintMeters": [
+        1,
+        1
+      ],
+      "label": "Karpet Belajar",
+      "id": "study-room-target-6",
+      "shadowAssetId": null,
+      "thumbnailAssetId": "image.study-rug",
+      "modelAssetId": "model.study-rug"
+    },
+    {
+      "furnitureId": "book-cart",
+      "transform": {
+        "position": [
+          1.8,
+          0,
+          2
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotationDegrees": [
+          0,
+          0,
+          0
+        ]
+      },
+      "footprintMeters": [
+        1,
+        1
+      ],
+      "label": "Rak Buku Beroda",
+      "id": "study-room-target-7",
+      "shadowAssetId": null,
+      "thumbnailAssetId": "image.book-cart",
+      "modelAssetId": "model.book-cart"
+    },
+    {
+      "furnitureId": "study-plant",
+      "transform": {
+        "position": [
+          0,
+          0,
+          -2.4
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotationDegrees": [
+          0,
+          0,
+          0
+        ]
+      },
+      "footprintMeters": [
+        1,
+        1
+      ],
+      "label": "Tanaman Belajar",
+      "id": "study-room-target-8",
+      "shadowAssetId": null,
+      "thumbnailAssetId": "image.study-plant",
+      "modelAssetId": "model.study-plant"
+    }
+  ],
+  "roomModelAssetId": "room.study-room",
+  "name": "Ruang Belajar",
+  "camera": {
+    "position": [
+      8,
+      7,
+      9
+    ],
+    "lookAt": [
+      0,
+      0,
+      0
+    ],
+    "projection": "perspective"
+  },
+  "layoutStatus": "draft-needs-real-model-alignment",
+  "schemaVersion": 1,
+  "thumbnailAssetId": "image.room.study-room",
+  "id": "study-room"
+}

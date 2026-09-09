@@ -1,0 +1,44 @@
+{
+  "instruction": "Yuk, lengkapi ruang belajar ini!",
+  "roomId": "study-room",
+  "levels": {
+    "easy": {
+      "targetIds": [
+        "study-room-target-1",
+        "study-room-target-2",
+        "study-room-target-3",
+        "study-room-target-4"
+      ],
+      "distractorFurnitureIds": []
+    },
+    "medium": {
+      "targetIds": [
+        "study-room-target-1",
+        "study-room-target-2",
+        "study-room-target-3",
+        "study-room-target-4",
+        "study-room-target-5",
+        "study-room-target-6"
+      ],
+      "distractorFurnitureIds": []
+    },
+    "hard": {
+      "targetIds": [
+        "study-room-target-1",
+        "study-room-target-2",
+        "study-room-target-3",
+        "study-room-target-4",
+        "study-room-target-5",
+        "study-room-target-6",
+        "study-room-target-7",
+        "study-room-target-8"
+      ],
+      "distractorFurnitureIds": [
+        "distractor-bathtub",
+        "distractor-stove"
+      ]
+    }
+  },
+  "schemaVersion": 1,
+  "id": "study-room-challenge"
+}

@@ -1,0 +1,259 @@
+{
+  "suggestedFloorSizeMeters": [
+    7,
+    7
+  ],
+  "targets": [
+    {
+      "furnitureId": "sofa",
+      "transform": {
+        "position": [
+          -1.6,
+          0,
+          -1.4
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotationDegrees": [
+          0,
+          0,
+          0
+        ]
+      },
+      "footprintMeters": [
+        1,
+        1
+      ],
+      "label": "Sofa",
+      "id": "living-room-target-1",
+      "shadowAssetId": null,
+      "thumbnailAssetId": "image.sofa",
+      "modelAssetId": "model.sofa"
+    },
+    {
+      "furnitureId": "coffee-table",
+      "transform": {
+        "position": [
+          1.8,
+          0,
+          -1.5
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotationDegrees": [
+          0,
+          0,
+          0
+        ]
+      },
+      "footprintMeters": [
+        1,
+        1
+      ],
+      "label": "Meja Tamu",
+      "id": "living-room-target-2",
+      "shadowAssetId": null,
+      "thumbnailAssetId": "image.coffee-table",
+      "modelAssetId": "model.coffee-table"
+    },
+    {
+      "furnitureId": "armchair",
+      "transform": {
+        "position": [
+          -2.4,
+          0,
+          0.3
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotationDegrees": [
+          0,
+          0,
+          0
+        ]
+      },
+      "footprintMeters": [
+        1,
+        1
+      ],
+      "label": "Kursi Santai",
+      "id": "living-room-target-3",
+      "shadowAssetId": null,
+      "thumbnailAssetId": "image.armchair",
+      "modelAssetId": "model.armchair"
+    },
+    {
+      "furnitureId": "tv-cabinet",
+      "transform": {
+        "position": [
+          2.4,
+          0,
+          0.3
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotationDegrees": [
+          0,
+          0,
+          0
+        ]
+      },
+      "footprintMeters": [
+        1,
+        1
+      ],
+      "label": "Meja TV",
+      "id": "living-room-target-4",
+      "shadowAssetId": null,
+      "thumbnailAssetId": "image.tv-cabinet",
+      "modelAssetId": "model.tv-cabinet"
+    },
+    {
+      "furnitureId": "floor-lamp",
+      "transform": {
+        "position": [
+          -1.8,
+          0,
+          2
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotationDegrees": [
+          0,
+          0,
+          0
+        ]
+      },
+      "footprintMeters": [
+        1,
+        1
+      ],
+      "label": "Lampu Berdiri",
+      "id": "living-room-target-5",
+      "shadowAssetId": null,
+      "thumbnailAssetId": "image.floor-lamp",
+      "modelAssetId": "model.floor-lamp"
+    },
+    {
+      "furnitureId": "living-rug",
+      "transform": {
+        "position": [
+          0,
+          0,
+          0.8
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotationDegrees": [
+          0,
+          0,
+          0
+        ]
+      },
+      "footprintMeters": [
+        1,
+        1
+      ],
+      "label": "Karpet Ruang Tamu",
+      "id": "living-room-target-6",
+      "shadowAssetId": null,
+      "thumbnailAssetId": "image.living-rug",
+      "modelAssetId": "model.living-rug"
+    },
+    {
+      "furnitureId": "side-table",
+      "transform": {
+        "position": [
+          1.8,
+          0,
+          2
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotationDegrees": [
+          0,
+          0,
+          0
+        ]
+      },
+      "footprintMeters": [
+        1,
+        1
+      ],
+      "label": "Meja Samping Tamu",
+      "id": "living-room-target-7",
+      "shadowAssetId": null,
+      "thumbnailAssetId": "image.side-table",
+      "modelAssetId": "model.side-table"
+    },
+    {
+      "furnitureId": "plant",
+      "transform": {
+        "position": [
+          0,
+          0,
+          -2.4
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotationDegrees": [
+          0,
+          0,
+          0
+        ]
+      },
+      "footprintMeters": [
+        1,
+        1
+      ],
+      "label": "Tanaman",
+      "id": "living-room-target-8",
+      "shadowAssetId": null,
+      "thumbnailAssetId": "image.plant",
+      "modelAssetId": "model.plant"
+    }
+  ],
+  "roomModelAssetId": "room.living-room",
+  "name": "Ruang Tamu",
+  "camera": {
+    "position": [
+      8,
+      7,
+      9
+    ],
+    "lookAt": [
+      0,
+      0,
+      0
+    ],
+    "projection": "perspective"
+  },
+  "layoutStatus": "draft-needs-real-model-alignment",
+  "schemaVersion": 1,
+  "thumbnailAssetId": "image.room.living-room",
+  "id": "living-room"
+}

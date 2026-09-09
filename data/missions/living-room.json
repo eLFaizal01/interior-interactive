@@ -1,0 +1,44 @@
+{
+  "instruction": "Yuk, lengkapi ruang tamu ini!",
+  "roomId": "living-room",
+  "levels": {
+    "easy": {
+      "targetIds": [
+        "living-room-target-1",
+        "living-room-target-2",
+        "living-room-target-3",
+        "living-room-target-4"
+      ],
+      "distractorFurnitureIds": []
+    },
+    "medium": {
+      "targetIds": [
+        "living-room-target-1",
+        "living-room-target-2",
+        "living-room-target-3",
+        "living-room-target-4",
+        "living-room-target-5",
+        "living-room-target-6"
+      ],
+      "distractorFurnitureIds": []
+    },
+    "hard": {
+      "targetIds": [
+        "living-room-target-1",
+        "living-room-target-2",
+        "living-room-target-3",
+        "living-room-target-4",
+        "living-room-target-5",
+        "living-room-target-6",
+        "living-room-target-7",
+        "living-room-target-8"
+      ],
+      "distractorFurnitureIds": [
+        "distractor-bathtub",
+        "distractor-stove"
+      ]
+    }
+  },
+  "schemaVersion": 1,
+  "id": "living-room-challenge"
+}
